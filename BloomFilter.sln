@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilterProgram", "Bloom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilterLib", "BloomFilterLib\BloomFilterLib.csproj", "{E6361990-0A68-41C2-A07B-C2560AF0AE3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{E6361990-0A68-41C2-A07B-C2560AF0AE3B}.Release|x64.Build.0 = Release|Any CPU
 		{E6361990-0A68-41C2-A07B-C2560AF0AE3B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E6361990-0A68-41C2-A07B-C2560AF0AE3B}.Release|x86.Build.0 = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|x64.Build.0 = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Debug|x86.Build.0 = Debug|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|x64.ActiveCfg = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|x64.Build.0 = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|x86.ActiveCfg = Release|Any CPU
+		{50C8A4FB-3E18-422B-BD88-E31C5C280DD7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
